@@ -64,8 +64,6 @@ This project involves setting up a private blockchain using **Hyperledger Fabric
 - Web3.js / Fabric SDK for interaction
 
 
-
-
   "OUTPUT":
 
   
