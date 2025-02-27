@@ -69,7 +69,7 @@ This project involves setting up a private blockchain using **Hyperledger Fabric
   
   Task4:
 
-  <img width="344" alt="Screenshot 2025-02-26 085410" src="https://github.com/user-attachments/assets/47e4f9af-0f82-4dc3-accc-e9f8939938ec" />
+  ![output4](https://github.com/user-attachments/assets/d76e8622-064b-4add-b527-483911ac3a7a)
 
 
  
